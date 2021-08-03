@@ -1,7 +1,7 @@
 // The syntax for this file is proto3
 syntax = "proto3";
 
-import "3-basics-part-ii/date.proto";
+import "3-basics-part-ii/3-date.proto";
 /* Person is used to identify users
  * across our system */
 
