@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "4-execises-solutions/3-imports/city.proto";
+// define type Street
+message Street {
+  string name = 1;
+  City city = 2;
+}
